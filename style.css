@@ -1,0 +1,16 @@
+.jumbotron {
+  padding: 5rem 1rem;
+  background-color: #2D2E3F;
+  color: #FFFFFF;
+}
+
+.nama {
+  padding-top: 2rem;
+  margin-bottom: -5px;
+}
+
+.card {
+  margin: 10px 10px;
+  padding-top: 10px;
+  padding-left: 10px;
+}
